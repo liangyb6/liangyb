@@ -29,7 +29,8 @@ UML考试会考查结构图、行为图、交互图
   * 请在 参考书2 或 教材 中选择一个类图（给出参考书页码图号）
 
 ![图片](https://uploader.shimo.im/f/tg8hURNPtokI067O.png!thumbnail)
+书本第七页图1-5   局部设计类图
 
 图片显示不了请看  https://uploader.shimo.im/f/tg8hURNPtokI067O.png!thumbnail
-书本第七页图1-5   局部设计类图
+
 
